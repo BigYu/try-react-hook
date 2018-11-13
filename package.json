@@ -1,0 +1,10 @@
+{
+  "name": "try-react-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BigYu/try-react-hook.git",
+  "license": "MIT",
+  "devDependencies": {
+    "create-react-app": "^2.1.1"
+  }
+}
